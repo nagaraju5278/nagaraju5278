@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nagaraju Maddela
 - 👀 I’m interested in Full-Stack development, Java, JNI, C and C++
 - 🌱 I’m currently learning React, Angular, Microservices, ES6++, TypeScript and Python
-- 💞️ I’m looking to collaborate on any projects involving my current learning list
+- 💞️ I’m looking to collaborate on any projects involving from my current learning list
 - 📫 How to reach me nagaraju5278@gmail.com
 
 <!---
